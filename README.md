@@ -26,9 +26,6 @@ Use the `--prod` flag for a production build.
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 
-
-This UI project is created with React JS. 
-
 It connects with **.NET Core API** to get list of gender of owners with cats.
 
 

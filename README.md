@@ -7,17 +7,19 @@ It connects with **.NET Core API** to get list of gender of owners with cats.
 
 ## Development server
 
-Link to API Endpoint is configured under /src/utils/constants.js file
+**Link to API Endpoint is configured under /src/utils/constants.js file**
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` to generate a new component. 
+You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. 
+Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
@@ -37,10 +39,9 @@ which makes the application independent and can be changed to any technology in 
 The second reason  is because which makes the application looks less messy when it grows. 
 
  
-### `Sample UI output`
+### ` UI output`
 
 
-Output :
 ![alt tag](https://github.com/ManojLingala/Ansible-Playbook/blob/master/Images/AGLFrontend.png)
 
  

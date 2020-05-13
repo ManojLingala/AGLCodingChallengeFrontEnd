@@ -1,8 +1,13 @@
-# Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+## Frontend Angular UI
+
+This UI project is created with Angular version 9.0.6. 
+
+It connects with **.NET Core API** to get list of gender of owners with cats.
 
 ## Development server
+
+Link to API Endpoint is configured under /src/utils/constants.js file
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -18,10 +23,34 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+This UI project is created with React JS. 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+It connects with **.NET Core API** to get list of gender of owners with cats.
+
+
+The reason for implementing as a separate solution is because of  loosely couple behaviour as
+which makes the application independent and can be changed to any technology in later point of time .
+
+
+The second reason  is because which makes the application looks less messy when it grows. 
+
+ 
+### `Sample UI output`
+
+
+Output :
+![alt tag](https://github.com/ManojLingala/Ansible-Playbook/blob/master/Images/AGLFrontend.png)
+
+ 
+Testcases Evidence :
+![alt tag](https://github.com/ManojLingala/Ansible-Playbook/blob/master/Images/CataListComponentTestingEvidence.png)
+
+## Acknowledgments
+
+- The people of AGL and the  PeopleBank Recruitment Consultancy  for the opportunity.
+
+
+
+
